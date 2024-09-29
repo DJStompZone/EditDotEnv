@@ -1,0 +1,15 @@
+{
+  "name": "editdotenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "repl": "node dotEnvRepl.js"
+  },
+  "bin": {
+    "editdotenv": "./src/repl.js"
+  },
+  "keywords": ["env", "dotenv", "json", "serialization"],
+  "author": "DJ Stomp <85457381+DJStompZone@users.noreply.github.com> (https://stomp.zone/)",
+  "license": "MIT",
+  "description": "Utility to easily read and write .env files and convert .env to and from JSON. Made w/ <3 @ StompZone"
+}
