@@ -20,7 +20,7 @@ It is completely self-contained with no external dependencies, and includes a co
 ### Node Package
 
 ```
-npm install editdotenv
+npm install @djstompzone/editdotenv
 ```
 
 ### Clone the Repository
@@ -37,7 +37,7 @@ cd editdotenv
 To install the `editdotenv` package globally, run:
 
 ```
-npm install -g editdotenv
+npm install -g @djstompzone/editdotenv
 ```
 
 Once installed, you can run the REPL from any directory by typing:
